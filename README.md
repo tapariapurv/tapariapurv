@@ -1,3 +1,5 @@
+### Hi there 👋
+
 ![Hey there, I'm Purv. I'm a coder, and an AI for coding expert. Check out my work](https://github.com/tapariapurv/tapariapurv/blob/main/Profile%20GIF.gif)
 
 - 🔭 I’m currently working on **rapidgames**(github.com/tapariapurv/rapidgames)
