@@ -13,8 +13,8 @@
 <p align="left">
 <a href= "https://tapariapurv.github.io/"><img height="64" width="64" src="https://tapariapurv.github.io/My%20image%20circular.png" /></a>
 <a href= "https://lichess.org/@/Purv_123"><img height="64" width="64" src="lichess.png" /></a>
-<a href ="https://github.com/ummadiviany"><img height="64" width="64" src="github.png" /></a>
-<a href ="ummadi.vinay2000@gmail.com"><img height="64" width="64" src="gmail.png" /></a>
+<a href ="https://github.com/tapariapurv"><img height="64" width="64" src="github.png" /></a>
+<a href ="mailto:tapariapurv@gmail.com"><img height="64" width="64" src="gmail.png" /></a>
 </p>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tapariapurv&show_icons=true&theme=dracula)
