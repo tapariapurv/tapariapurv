@@ -11,11 +11,20 @@
 
 #### Social Connect
 <p align="left">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+        integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+        crossorigin="anonymous" />
 <a href= "https://tapariapurv.github.io/"><img height="64" width="64" src="My image circular (1).png"></a>
   
-<a href= "https://lichess.org/@/Purv_123"><img height="64" width="64" src="lichess.png" /></a>
-<a href ="https://github.com/tapariapurv"><img height="64" width="64" src="github.png" /></a>
-<a href ="mailto:tapariapurv@gmail.com"><img height="64" width="64" src="gmail.png" /></a>
+<!-- <a href= "https://lichess.org/@/Purv_123"><img height="64" width="64" src="lichess.png" /><i class="fas fa-chess-rook"></i></a> -->
+<!-- <a href ="https://github.com/tapariapurv"><img height="64" width="64" src="github.png" /></a> -->
+<!-- <a href ="mailto:tapariapurv@gmail.com"><img height="64" width="64" src="gmail.png" /></a> -->
+                <a href="mailto:purvtaparia2@gmail.com" title="Email">
+                    <i class="fas fa-envelope"></i>
+                </a>
+<a href="https://www.linkedin.com/in/purv-taparia-220620258/" target="_blank" title="LinkedIn">
+  <i class="fab fa-linkedin"></i>
+ </a>
 </p>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tapariapurv&show_icons=true&theme=dracula)
