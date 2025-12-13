@@ -11,7 +11,7 @@
 
 #### Social Connect
 <p align="left">
-<a href= "https://tapariapurv.github.io/"><img height="64" width="64" src="My image circular (1)"></a>
+<a href= "https://tapariapurv.github.io/"><img height="64" width="64" src="My image circular (1).png"></a>
   
 <a href= "https://lichess.org/@/Purv_123"><img height="64" width="64" src="lichess.png" /></a>
 <a href ="https://github.com/tapariapurv"><img height="64" width="64" src="github.png" /></a>
