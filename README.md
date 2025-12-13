@@ -19,17 +19,17 @@
   <a href="https://tapariapurv.github.io/">
     <img height="40" width="40" src="./My image circular (1).png" alt="My Portfolio Website">
   </a>
-  &nbsp;
+  
   <a href="mailto:tapariapurv@gmail.com">
     <img height="40" width="40" src="./gmail.png" alt="Email me">
   </a>
-  &nbsp;
+  
   <a href="https://github.com/tapariapurv" target="_blank">
     <img height="40" width="40" src="./github.png" alt="GitHub Profile">
   </a>
-  &nbsp;
+
   <a href="https://www.linkedin.com/in/purv-taparia-220620258/" target="_blank">
-    <img height="40" width="40" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="40" width="40" src="./linkedin.png" alt="LinkedIn Profile">
   </a>
 </p>
 
