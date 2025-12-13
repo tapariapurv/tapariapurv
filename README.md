@@ -21,7 +21,7 @@
   </a>
 
   <a href="mailto:tapariapurv@gmail.com">
-    <img height="40" width="40" src="./gmail.png" alt="Email me">
+    <img height="40" width="40" src="./envelope-solid-full.svg" alt="Email me">
   </a>
 
   <a href="https://github.com/tapariapurv" target="_blank">
