@@ -21,15 +21,15 @@
   </a>
   
   <a href="mailto:tapariapurv@gmail.com">
-    <img height="40" width="40" src="./gmail.png" alt="Email me">
+    <i height="40" width="40" src="./envelope=solid-full.svg" alt="Email me">
   </a>
   
   <a href="https://github.com/tapariapurv" target="_blank">
-    <img height="40" width="40" src="./github.png" alt="GitHub Profile">
+    <i height="40" width="40" src="./github.png-brands-solid-full.svg" alt="GitHub Profile">
   </a>
 
   <a href="https://www.linkedin.com/in/purv-taparia-220620258/" target="_blank">
-    <img height="40" width="40" src="./linkedin.png" alt="LinkedIn Profile">
+    <i height="40" width="40" src="./linkedin-brands-solid-full.svg" alt="LinkedIn Profile">
   </a>
 </p>
 
