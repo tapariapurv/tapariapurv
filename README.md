@@ -19,17 +19,21 @@
   <a href="https://tapariapurv.github.io/">
     <img height="40" width="40" src="./My image circular (1).png" alt="My Portfolio Website">
   </a>
-  
+
   <a href="mailto:tapariapurv@gmail.com">
-    <i height="40" width="40" src="./envelope=solid-full.svg" alt="Email me">
+    <img height="40" width="40" src="./gmail.png" alt="Email me">
   </a>
-  
+
   <a href="https://github.com/tapariapurv" target="_blank">
-    <i height="40" width="40" src="./github.png-brands-solid-full.svg" alt="GitHub Profile">
+    <img height="40" width="40" src="./github-brands-solid-full.svg" alt="GitHub Profile">
   </a>
 
   <a href="https://www.linkedin.com/in/purv-taparia-220620258/" target="_blank">
-    <i height="40" width="40" src="./linkedin-brands-solid-full.svg" alt="LinkedIn Profile">
+    <img height="40" width="40" src="./linkedin-brands-solid-full.svg" alt="LinkedIn Profile">
+  </a>
+  
+  <a href="https://lichess.org/@/Purv_123" target="_blank">
+    <img height="40" width="40" src="./chess-rook-solid-full.svg" alt="Chess Profile">
   </a>
 </p>
 
