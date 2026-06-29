@@ -9,7 +9,7 @@
 - 💬 Ask me about **HTML**
 - 📫 How to reach me: [tapariapurv@gmail.com](mailto:tapariapurv@gmail.com)
 - 😄 Pronouns: Maker, Engineer, Coder, Developer
-- ⚡ Fun fact: I am a 9-year-old kid!
+- ⚡ Fun fact: I am a 10-year-old kid!
 
 ---
 
