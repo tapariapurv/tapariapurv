@@ -16,7 +16,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://tapariapurv.github.io/"><img height="40" width="40" src="https://tapariapurv.github.io/assets/Favicon.png" alt="Portfolio"></a>&nbsp;&nbsp;<a href="mailto:tapariapurv@gmail.com"><img height="40" width="40" src="./envelope-solid-full.svg" alt="Email"></a>&nbsp;&nbsp;<a href="https://github.com/tapariapurv" target="_blank"><img height="40" width="40" src="./github-brands-solid-full.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/purv-taparia-220620258/" target="_blank"><img height="40" width="40" src="./linkedin-brands-solid-full.svg" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://lichess.org/@/Purv_123" target="_blank"><img height="40" width="40" src="./chess-rook-solid-full.svg" alt="Chess"></a>
+<a href="https://tapariapurv.github.io/"><img height="40" width="40" src="https://tapariapurv.github.io/assets/favicon.ico" alt="Portfolio"></a>&nbsp;&nbsp;<a href="mailto:tapariapurv@gmail.com"><img height="40" width="40" src="./envelope-solid-full.svg" alt="Email"></a>&nbsp;&nbsp;<a href="https://github.com/tapariapurv" target="_blank"><img height="40" width="40" src="./github-brands-solid-full.svg" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/purv-taparia-220620258/" target="_blank"><img height="40" width="40" src="./linkedin-brands-solid-full.svg" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://lichess.org/@/Purv_123" target="_blank"><img height="40" width="40" src="./chess-rook-solid-full.svg" alt="Chess"></a>
 </p>
 
 ---
