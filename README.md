@@ -23,7 +23,7 @@
 
 ### My GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=tapariapurv&show_icons=true&theme=dracula)
+![Purv's GitHub Stats](https://github-stats-extended.vercel.app/api?username=tapariapurv&theme=dracula&show_icons=true&border_radius=8&custom_title=Purv's%20GitHub%20stats&show=prs_merged_percentage)
 
 ---
 
