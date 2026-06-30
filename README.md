@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p> -->
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,html,css,processing,md,sklearn,arduino,git,github,vscode,pycharm,replit,blender,powershell,windows,apple,notion,obsidian,linkedin,gmail" />
   </a>
